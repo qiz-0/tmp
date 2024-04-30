@@ -1,8 +1,8 @@
-### 红米 note4x (mido) 
+# 红米 note4x (mido) 
 
 <br/>
 
-### 重刷 postmarketOS
+## 重刷 postmarketOS
 
 ---
 
@@ -23,7 +23,7 @@
 5. 默认密码: 147147
 <br/>  
 
-### postmarketOS 开局
+## postmarketOS 开局
 
 ---
 
@@ -100,7 +100,7 @@ ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
 
 <br/>
 
-### 踩坑
+## 踩坑
 
 ---
 

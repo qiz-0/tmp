@@ -22,7 +22,7 @@
 
 5. 默认密码: 147147
 
-
+  
 
 ### postmarketOS 开局
 
@@ -99,7 +99,7 @@ ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
 
 > 验证 : date -R
 
-
+  
 
 ### 踩坑
 

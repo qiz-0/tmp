@@ -36,7 +36,7 @@ rc-service sshd start
 rc-update add sshd
 ```
 
-#### 加入到sudo
+#### user用户加入到sudo免密
 
 ```sh
  echo "user  ALL=(ALL:ALL) NOPASSWD: ALL" > /etc/sudoers.d/10-sb
